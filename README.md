@@ -1,4 +1,4 @@
-# zigzag_on_dynamic_social_networks
+# zigzag-crisis-collaboration
 
 This repository contains code and data for reproducing analyses in the paper **"The Evolution and Impact of Group Collaboration in Crisis Response"**.
 
@@ -6,14 +6,14 @@ This repository contains code and data for reproducing analyses in the paper **"
 
 This project studies the dynamics of volunteer collaboration in crisis response, with a focus on higher-order collaboration structures and their relationship to system effectiveness.
 
-![Figure: Collaboration patterns in volunteer activities](figures/collaboration_patterns.svg)
+![Figure: Collaboration patterns in volunteer activities](figures/collaboration_patterns.png)
 
 ## Installation
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/anpingzzzz/zigzag_on_dynamic_social_networks.git
-cd zigzag_on_dynamic_social_networks
+git clone https://github.com/anpingzzzz/zigzag-crisis-collaboration.git
+cd zigzag-crisis-collaboration
 ```
 
 ### 2. Create and activate environment
